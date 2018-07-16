@@ -1,0 +1,27 @@
+{
+  "name": "@glints/tslint-rules",
+  "version": "1.0.0",
+  "description": "Shared rules for the TypeScript Linter, TSLint.",
+  "main": "tslint-base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glints-dev/tslint-rules.git"
+  },
+  "keywords": [
+    "tslint",
+    "rules",
+    "glints"
+  ],
+  "author": "Wong Yong Jie <yongjie@glints.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glints-dev/tslint-rules/issues"
+  },
+  "homepage": "https://github.com/glints-dev/tslint-rules#readme",
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  }
+}
