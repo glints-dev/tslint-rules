@@ -10,7 +10,7 @@ module.exports = {
     'interface-name': false,
     'member-access': [ true, 'no-public' ],
     'object-literal-sort-keys': false,
-    quotemark: [ true, 'single' ],
+    quotemark: [ true, 'single', 'jsx-double' ],
     'no-shadowed-variable': false,
     'space-before-function-paren': [ true,
       {
