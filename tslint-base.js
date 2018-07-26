@@ -23,6 +23,7 @@ module.exports = {
         constructor: 'never',
       },
     ],
+    'space-within-parens': [ true, 0 ],
   },
   rulesDirectory: [],
 };
