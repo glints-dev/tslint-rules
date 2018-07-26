@@ -1,6 +1,6 @@
 {
   "name": "@glints/tslint-rules",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shared rules for the TypeScript Linter, TSLint.",
   "main": "tslint-base.js",
   "scripts": {
