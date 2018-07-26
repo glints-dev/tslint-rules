@@ -13,7 +13,6 @@ module.exports = {
     'object-literal-sort-keys': false,
     quotemark: [ true, 'single', 'jsx-double' ],
     'no-shadowed-variable': false,
-    'object-curly-spacing': [ true, 'always' ],
     'space-before-function-paren': [ true,
       {
         anomymous: 'always',
@@ -24,6 +23,11 @@ module.exports = {
       },
     ],
     'space-within-parens': [ true, 0 ],
+
+    // Rules from tslint-eslint-rules.
+    'array-bracket-spacing': [ true, 'always', { singleValue: false } ],
+    'brace-style': [ true, '1tbs', { allowSingleLine: true }],
+    'object-curly-spacing': [ true, 'always' ],
   },
   rulesDirectory: [],
 };
