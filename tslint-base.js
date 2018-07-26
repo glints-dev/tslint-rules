@@ -1,6 +1,7 @@
 module.exports = {
   extends: [
     'tslint:recommended',
+    'tslint-eslint-rules',
   ],
   jsRules: {},
   rules: {
@@ -12,6 +13,7 @@ module.exports = {
     'object-literal-sort-keys': false,
     quotemark: [ true, 'single', 'jsx-double' ],
     'no-shadowed-variable': false,
+    'object-curly-spacing': [ true, 'always' ],
     'space-before-function-paren': [ true,
       {
         anomymous: 'always',
