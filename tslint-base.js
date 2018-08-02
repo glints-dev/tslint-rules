@@ -10,6 +10,7 @@ module.exports = {
     indent: [ true, 'spaces', 2 ],
     'interface-name': false,
     'member-access': [ true, 'no-public' ],
+    'object-literal-key-quotes': [ true, 'as-needed' ],
     'object-literal-sort-keys': false,
     quotemark: [ true, 'single', 'jsx-double' ],
     'no-shadowed-variable': false,
