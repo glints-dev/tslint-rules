@@ -22,9 +22,9 @@
   },
   "homepage": "https://github.com/glints-dev/tslint-rules#readme",
   "devDependencies": {
-    "eslint": "^5.1.0"
+    "eslint": "^5.9.0"
   },
   "dependencies": {
-    "tslint-eslint-rules": "^5.3.1"
+    "tslint-eslint-rules": "^5.4.0"
   }
 }
